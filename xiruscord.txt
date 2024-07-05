@@ -1,0 +1,4 @@
+gain = 1
+bitrate = 512000
+ducking = false
+prioritySpeakerDucking = false
